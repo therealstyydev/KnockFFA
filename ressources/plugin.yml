@@ -1,0 +1,8 @@
+name: KnockFFA
+version: 1.0
+main: de.styydev.knockffa.main.Main
+authors: [ StyyDev
+website: https://craftinggames.eu
+commands:
+  setspawn:
+    description: Setze den Spawnpunkt
